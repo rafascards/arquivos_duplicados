@@ -14,11 +14,11 @@ Tranferir a pasta para:
 ```
 C:\Program Files
 ```
-e executar o arquivo abaixo como admnistrador:
+Executar o arquivo abaixo como administrador:
 ```
 register.reg
 ```
-e adicionar o diretório abaixo no Path, nas Variáveis de Sistemas:
+Adicionar o diretório abaixo no Path, nas Variáveis de Ambiente:
 ```
 C:\Program Files\Duplicate File
 ```
