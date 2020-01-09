@@ -9,7 +9,7 @@ O programa consiste basicamente em checar os hashs dos arquivos da pasta de form
 ### Instalação
 
 #### Windows
-Caso você tenha use windows, só é necessário baixar a pasta Duplicate Files aqui.
+Caso você tenha use windows, só é necessário baixar a pasta Duplicate File aqui.
 Tranferir a pasta para:
 ```
 C:\Program Files
@@ -20,7 +20,7 @@ register.reg
 ```
 e adicionar o diretório abaixo no Path, nas Variáveis de Sistemas:
 ```
-C:\Program Files\Duplicates Files
+C:\Program Files\Duplicate File
 ```
 Após isso é só apertar com o botão qualquer pasta e clicar em "Check duplicate files here".
 
