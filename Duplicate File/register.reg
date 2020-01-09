@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\duplicate_files]
 @="Check duplicate files here"
-"Icon"="C:\\Program Files\\Duplicates Files\\icon.ico"
+"Icon"="C:\\Program Files\\Duplicate Files\\icon.ico\"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\duplicate_files\command]
-@="\"C:\\Program Files\\Duplicates Files\\main.exe\" \"%v.\""
+@="\"C:\\Program Files\\Duplicate Files\\main.exe\" \"%v.\""
